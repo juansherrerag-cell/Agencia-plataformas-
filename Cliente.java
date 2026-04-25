@@ -15,7 +15,7 @@ public class Cliente {
         this.cedula = cedula;
         this.forma_de_pago = forma_de_pago;
         this.lugares_mas_frecuentes=lugares_mas_frecuentes;
-        this. lugar_de_partida=lugar_de_partida;
+        this.lugar_de_partida=lugar_de_partida;
     }
 
     public String getNombre() { return nombre; }
