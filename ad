@@ -1,0 +1,29 @@
+[33mfa839c5[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m organice un error con un espacion y tambien el que anterior mente habia enviado de las comillas y los codigos malos,ya todo esta corregido
+[33m5354eab[m habian cosas que no estaban cerradas como algunas comillas y corchetes,y tambien habian unos codigos que estaban malos,se le agregaron 3 atributos a las clase cliente
+[33m69d924c[m Merge pull request #23 from lauraxherrreram/Laura-estudiante-mejora
+[33mb38a0d5[m Merge pull request #19 from juandi2008/juandi-botero
+[33mae3cea5[m Merge branch 'main' into juandi-botero
+[33m08eb8ac[m Merge pull request #14 from jhosetahernandez/Jhoset-Alexander-mejora
+[33m75c0e9a[m Merge pull request #5 from AngiCorr/Angelina-mejoraras-Vuelo
+[33m858519b[m Añadida nueva sección de reserva con regaños y mal trato
+[33m120fa7f[m Merge pull request #12 from juanphoyosc-cyber/juan-pablo-mejora
+[33mf212903[m agregue un metodo y atributos
+[33mf13bb33[m Merge pull request #3 from juandbernalg/juandbernalg
+[33mc3d4fa1[m Añadida mejora en el sistema de reservas por Juan Pablo
+[33maec4fdd[m Merge branch 'main' into Jhoset-Alexander-mejora
+[33m8b7d0dd[m Añadida mejora por Juan Pablo
+[33mcb4a8fe[m Añadi un metodo para buscar el vuelo por su ID
+[33mdcd46a0[m Merge pull request #7 from Daniel200612/main
+[33m02a283c[m Merge branch 'main' into Angelina-mejoraras-Vuelo
+[33mec65d4a[m Soy Angelina y Actualice Vuelo.java agegando el método de ConfirmarReserva
+[33maaa3ef4[m Añadir Un Metodo de mostrar informacion
+[33m8bf3c01[m Hola profe, soy Juan Diego Bernal y agregue unos atributos de hotel y un metodo mostrar informacion
+[33maa5437b[m Merge pull request #2 from valehl-collab/Valeria-Herrera-Londoño-Añadir-import
+[33mf94aaa7[m Añadiendo cambios en cliente
+[33mee9169b[m Añadir import de la hora local
+[33meaf12e6[m Añadi clase Vuelo con constructor y método obtenerVuelo
+[33mae47de0[m Create Vuelo.java
+[33m6456a7a[m Create Reserva.java
+[33ma685fdc[m Create Hotel.java
+[33m0fa9abb[m Create Cliente.java
+[33mae5ef99[m first commit
